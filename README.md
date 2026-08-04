@@ -111,3 +111,7 @@ Key tunable parameters live near the top of their respective files:
 ## License
 
 Add a license of your choice (e.g. MIT) before publishing.
+
+##Author
+
+Sameer Bhilware — @Sameer-Bhilware
